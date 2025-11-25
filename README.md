@@ -42,9 +42,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecn
 
 ## 📫 Contato
 
-- **Email:** seuemail@gmail.com  
-- **Instagram:** @seuuser  
-- **LinkedIn:** (opcional)
+- **Email:** juanbrianm10@gmail.com  
 
 ---
 
