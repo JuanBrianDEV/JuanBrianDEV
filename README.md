@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://wallpapercave.com/stalker-movie-wallpapers" alt="Banner Tarkovsky" width="100%">
+  <img src="wp6939858.jpg" alt="Banner Tarkovsky" width="100%">
 </p>
 
 ---
