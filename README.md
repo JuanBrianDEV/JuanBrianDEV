@@ -47,7 +47,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecn
 ---
 
 <p align="center" style="color:#7f8d9a; font-style:italic; font-size:15px;">
-  “A dúvida é o privilégio da consciência.”
+  “O homem não é nada além do que faz de si mesmo.”
 </p>
 
 <p>
